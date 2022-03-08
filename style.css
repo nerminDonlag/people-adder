@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-family: monospace;
+}
+
+body {
+  max-width: 30rem;
+  margin: 5rem auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.person {
+  margin-top: 1rem;
+}
+
+button,
+.mdi {
+  cursor: pointer;
+}
